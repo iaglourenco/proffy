@@ -21,6 +21,17 @@ body{
 }
 
 #page-landing #container{
-    margin-top: 20rem;
-    margin-bottom: 20rem;
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+}
+
+#page-study #container{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+#page-study main{
+    width: 100%;
 }
